@@ -5,7 +5,8 @@ Xcode iPhoneOS DeviceSupport (6.0 - 13.2)
 
 **iOS 13.1** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.1.zip) </br>
 **iOS 13.2** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.2.zip) </br>
-**iOS 13.3** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.3.zip)
+**iOS 13.3** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.3.zip) </br>
+**iOS 13.4** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.4.zip)
 
 👇👇👇👇👇
 </br>
